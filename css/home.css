@@ -43,6 +43,10 @@ h1 {
     transition: 0.5px;
     
 }
+.course-col:hover {
+    background: rgb(169, 169, 123);
+    color: #fff;
+  }
 .course a {
     text-decoration: none;
     color: #000;
