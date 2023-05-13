@@ -15,11 +15,14 @@ header span{
 }
 @media (max-width: 700px) {
     header {
-        margin-right: 110px;
+        margin-right: 70px;
     }
     header span{
         color: navy;
         font-size: 30px;
+   }
+   header pre {
+    margin-right: -8px;
    }
 }
 .course {
