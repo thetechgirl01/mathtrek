@@ -7,7 +7,7 @@ body {
     font-family: cursive;
 }
 header {
-    margin-right: 90px;
+    margin-right: 70px;
 }
 header span{
      color: navy;
@@ -19,7 +19,7 @@ header span{
     }
     header span{
         color: navy;
-        font-size: 35px;
+        font-size: 30px;
    }
 }
 .course {
