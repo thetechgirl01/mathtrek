@@ -7,7 +7,7 @@ body {
     font-family: cursive;
 }
 header {
-    margin-right: 70px;
+    margin-right: 80px;
 }
 header span{
      color: navy;
@@ -15,7 +15,7 @@ header span{
 }
 @media (max-width: 700px) {
     header {
-        margin-right: 70px;
+        margin-right: 80px;
     }
     header span{
         color: navy;
